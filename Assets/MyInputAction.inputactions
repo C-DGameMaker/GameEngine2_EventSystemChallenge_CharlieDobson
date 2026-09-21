@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "MyInputAction",
+    "maps": [
+        {
+            "name": "Event System",
+            "id": "e45c2813-e1e8-475d-91dc-c0cfc7b8e777",
+            "actions": [
+                {
+                    "name": "Event",
+                    "type": "Button",
+                    "id": "90d5d643-135d-4d0f-b7aa-eefdb166092e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8fdc6381-6790-4fb7-80e0-1a08835d8a96",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Event",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
